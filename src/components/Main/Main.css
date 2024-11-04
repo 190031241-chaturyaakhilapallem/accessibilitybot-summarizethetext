@@ -340,6 +340,10 @@ body.dark-mode {
     margin: 0;
   }
 
+.Multi-Lang-Bot.dark-mode h1 {
+    color: #FFFFFF; /* White text for better visibility in dark mode */
+}
+
   /* Light mode styling */
   @media (prefers-color-scheme: light) {
     .Multi-Lang-Bot {
@@ -347,11 +351,7 @@ body.dark-mode {
     }
   }
 
-  @media (prefers-color-scheme: dark) {
-    .Multi-Lang-Bot {
-      color: #FFFFFF; /* Violet color for light mode */
-    }
-  }
+
   
   
   
