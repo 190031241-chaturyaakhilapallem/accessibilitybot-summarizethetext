@@ -333,13 +333,14 @@ body.dark-mode {
     margin: 20px auto;
   }
   
-  .Multi-Lang-Bot.dark-mode h1 {
+   .Multi-Lang-Bot h1 {
     font-family: 'Arial', sans-serif;
     font-size: 24px;
-    color: #FFFFFF;
+    color: #333;
     margin: 0;
   }
-   .Multi-Lang-Bot h1 {
+
+  h1.dark-mode {
     font-family: 'Arial', sans-serif;
     font-size: 24px;
     color: #333;
