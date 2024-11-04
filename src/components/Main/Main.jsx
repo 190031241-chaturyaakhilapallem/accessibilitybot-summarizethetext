@@ -2,6 +2,7 @@ import React, { useContext, useState } from 'react';
 import './Main.css';
 import { assets } from '../../assets/assets';
 import { Context } from '../../context/Context';
+import logo from '../Sidebar/bot.jpeg'
 
 
 const Main = () => {
