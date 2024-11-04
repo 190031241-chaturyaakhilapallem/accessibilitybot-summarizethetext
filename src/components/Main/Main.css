@@ -347,11 +347,11 @@ body.dark-mode {
     }
   }
 
-/* Dark mode styling */
   @media (prefers-color-scheme: dark) {
     .Multi-Lang-Bot {
-      background-color: #FFFFFF; /* Violet color for light mode */
+      color: #FFFFFF; /* Violet color for light mode */
     }
+  }
   
   
   
