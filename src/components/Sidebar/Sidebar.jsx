@@ -22,9 +22,8 @@ const Sidebar = () => {
 
             {/* Sidebar Menu Items */}
             
-            <div className="highlighted">
-                     {/* Multi Language content here */}
-            </div>
+            {/* Highlighted Multi Language Feature */}
+            <div className="highlighted">Multi Language</div>
             
         </div>
     );
