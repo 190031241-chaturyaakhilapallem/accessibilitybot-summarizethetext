@@ -19,12 +19,6 @@ const Sidebar = () => {
             <div className="sidebar-logo">
                 <img src={logo} alt="Bot Logo" className="bot-logo" />
             </div>
-
-            {/* Sidebar Menu Items */}
-            
-            {/* Highlighted Multi Language Feature */}
-            <div className="highlighted">Multi Language</div>
-            
         </div>
     );
 };
