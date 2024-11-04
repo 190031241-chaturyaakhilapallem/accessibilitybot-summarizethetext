@@ -133,8 +133,11 @@
     align-items: center;
     gap: 20px;
     background-color: #82c8e5;
+}
+.result-title.dark-mode {
     color: 1C1C1C;
 }
+
 
 .result img {
     width: 40px;
