@@ -134,6 +134,14 @@
     gap: 20px;
     background-color: #8fd9fb;
 }
+.result-title.dark-mode {
+    margin: 40px 0px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #000000;
+    background-color: #8fd9fb;
+}
 .result img {
     width: 40px;
     border-radius: 50%;
