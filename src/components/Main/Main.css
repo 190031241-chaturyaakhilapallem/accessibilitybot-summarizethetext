@@ -132,8 +132,8 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    
-    background-color: #ffffff;
+    color: #000000
+    background-color: #8fd9fb;
 }
 .result img {
     width: 40px;
