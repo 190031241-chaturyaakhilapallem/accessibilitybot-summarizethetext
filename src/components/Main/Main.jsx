@@ -2,6 +2,7 @@ import React, { useContext, useState } from 'react';
 import './Main.css';
 import { assets } from '../../assets/assets';
 import { Context } from '../../context/Context';
+import botImage from './assets/bot.jpeg';  
 
 
 const Main = () => {
@@ -30,6 +31,7 @@ const Main = () => {
       </div>
 
       <nav className="navbar">
+        <img src={botImage} alt="Bot Logo" className="bot-logo" />
         <ul className="nav-list">
           
           
