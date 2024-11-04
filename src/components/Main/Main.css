@@ -336,12 +336,18 @@ body.dark-mode {
    .Multi-Lang-Bot h1 {
     font-family: 'Arial', sans-serif;
     font-size: 24px;
-    color: #000000;
+    color: #333;
     margin: 0;
   }
 
   /* Light mode styling */
   @media (prefers-color-scheme: light) {
+    .Multi-Lang-Bot {
+      background-color: #FFFFFF; /* Violet color for light mode */
+    }
+  }
+
+@media (prefers-color-scheme: dark) {
     .Multi-Lang-Bot {
       background-color: #FFFFFF; /* Violet color for light mode */
     }
