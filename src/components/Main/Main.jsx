@@ -75,7 +75,7 @@ const Main = () => {
               <p>
                 <span>Whats Up!.</span>
               </p>
-              <p>How can I help you today?</p>
+             <p style="opacity: 1; color: rgb(0, 0, 0); background-color: rgb(211, 243, 246);">How can I help you today?</p>
             </div>
             <div className="cards"></div>
           </>
