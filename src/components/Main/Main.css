@@ -133,7 +133,7 @@
     align-items: center;
     gap: 20px;
     
-    background-color: #42e9de;
+    background-color: #ffffff;
 }
 .result img {
     width: 40px;
@@ -144,6 +144,7 @@
     align-items: start;
     gap: 20px;
 }
+
 .loader {
     width: 100%;
     display: flex;
