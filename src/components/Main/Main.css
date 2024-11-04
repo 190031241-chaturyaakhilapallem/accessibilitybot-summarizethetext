@@ -323,7 +323,7 @@ body.dark-mode {
     background-color: #444444; /* Hover effect */
   }
   
-  .Multi-Lang-Bot {
+  .Text-Summarization-Bot {
     padding: 20px;
     text-align: center;
     border-radius: 10px;
@@ -333,7 +333,7 @@ body.dark-mode {
     margin: 20px auto;
   }
   
-   .Multi-Lang-Bot h1 {
+   .Text-Summarization-Bot h1 {
     font-family: 'Arial', sans-serif;
     font-size: 24px;
     color: #333;
@@ -342,19 +342,13 @@ body.dark-mode {
 
   /* Light mode styling */
   @media (prefers-color-scheme: light) {
-    .Multi-Lang-Bot {
+    .Text-Summarization-Bot {
       background-color: #FFFFFF; /* Violet color for light mode */
     }
   }
 
 @media (prefers-color-scheme: dark) {
-    .Multi-Lang-Bot {
+    .Text-Summarization-Bot {
       background-color: #FFFFFF; /* Violet color for light mode */
     }
   }
-
-
-  
-  
-  
-  
