@@ -21,27 +21,11 @@ const Sidebar = () => {
             </div>
 
             {/* Sidebar Menu Items */}
-            <div className="sidebar-item" onClick={() => loadPrompt('Text to Speech')}>
-                <p>Text to Speech</p>
+            
+            <div className="highlighted">
+                     {/* Multi Language content here */}
             </div>
-            <div className="sidebar-item" onClick={() => loadPrompt('Speech to Text')}>
-                <p>Speech to Text</p>
-            </div>
-            <div className="sidebar-item" onClick={() => loadPrompt('Image to Text')}>
-                <p>Image to Text</p>
-            </div>
-            <div className="sidebar-item" onClick={() => loadPrompt('Text Summarization')}>
-                <p>Text Summarization</p>
-            </div>
-            <div className="sidebar-item" onClick={() => loadPrompt('Multi Language')}>
-                <p>Multi Language</p>
-            </div>
-            <div className="sidebar-item" onClick={() => loadPrompt('Paraphrasing')}>
-                <p>Paraphrasing</p>
-            </div>
-            <div className="sidebar-item" onClick={() => loadPrompt('Interactive Dictionary')}>
-                <p>Interactive Dictionary</p>
-            </div>
+            
         </div>
     );
 };
