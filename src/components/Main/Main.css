@@ -343,7 +343,7 @@ body.dark-mode {
   /* Light mode styling */
   @media (prefers-color-scheme: light) {
     .Multi-Lang-Bot {
-      background-color: #D3F3F6; /* Violet color for light mode */
+      background-color: #FFFFFF; /* Violet color for light mode */
     }
   }
 
