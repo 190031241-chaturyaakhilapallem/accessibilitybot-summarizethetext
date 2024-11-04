@@ -336,13 +336,9 @@ body.dark-mode {
    .Multi-Lang-Bot h1 {
     font-family: 'Arial', sans-serif;
     font-size: 24px;
-    color: #333;
+    color: #000000;
     margin: 0;
   }
-
-.Multi-Lang-Bot.dark-mode h1 {
-    color: #FFFFFF; /* White text for better visibility in dark mode */
-}
 
   /* Light mode styling */
   @media (prefers-color-scheme: light) {
