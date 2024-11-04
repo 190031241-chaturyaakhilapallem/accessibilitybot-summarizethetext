@@ -83,7 +83,6 @@ const Main = () => {
 
         <div className="main-bottom">
           <div className="search-box">
-            <label for="promptInput" class="visually-hidden">Enter a prompt:</label>
             <input
               onChange={(e) => setInput(e.target.value)}
               value={input}
