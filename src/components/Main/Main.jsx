@@ -46,7 +46,7 @@ const Main = () => {
         
       </nav>
       <div class="Multi-Lang-Bot">
-      <h1>Interactive-Dictionary Bot</h1>
+      <h1>Multi Language Bot</h1>
       </div>
 
       <div className="main-container">
