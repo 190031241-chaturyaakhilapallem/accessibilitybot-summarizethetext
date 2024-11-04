@@ -31,6 +31,7 @@ const Main = () => {
       </div>
 
       <nav className="navbar">
+        <img src={botImage} alt="Bot Logo" className="bot-logo" />
         <ul className="nav-list">
           
           
